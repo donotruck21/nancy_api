@@ -27,7 +27,7 @@ namespace HelloNancy
                         Height = (long)JsonResponse["height"];
                     }
                 ));
-                Console.WriteLine(Name); // bulba
+                Console.WriteLine(Name);
                 ViewBag.name = Name;
                 ViewBag.weight = Weight;
                 ViewBag.height = Height;
