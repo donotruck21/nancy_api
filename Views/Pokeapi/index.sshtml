@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+         <meta charset="UTF-8">
+         <title>Hello</title>
+         <link rel="stylesheet" href="Content/style.css"/>
+    </head>
+
+    <body>
+        <h1>PokeApi</h1>
+        <h1>You found a @ViewBag.name!</h1>
+        <h3>Weight: @ViewBag.weight</h3>
+        <h3>Height: @ViewBag.height</h3>
+    </body>
+</html>
